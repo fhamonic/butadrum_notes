@@ -1,0 +1,7 @@
+[requires]
+range-v3/0.12.0
+mippp/0.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
